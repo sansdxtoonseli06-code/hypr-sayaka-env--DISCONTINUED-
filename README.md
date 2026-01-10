@@ -3,31 +3,31 @@ A sayaka desktop enviroment for custom hyprland config base in sayaka miki of si
 
 <img width="1920" height="1200" alt="2026-01-09-205442_hyprshot" src="https://github.com/user-attachments/assets/981b5c1c-f996-4531-86aa-e666fb401f4e" />
 
-> [!DISTRO]
+> **[DISTRO]**
 > 
 > ARCHCRAFT (ARCH LINUX)
 
-> [!TILING WINDOW MANAGER]
+> **[TILING WINDOW MANAGER]**
 > 
 > HYPERLAND (WAYLAND COMPOSITOR)
 
-> [!TERMINAL EMULATOR]
+> **[TERMINAL EMULATOR]**
 > 
 > KITTY whith ohmyZSH Shell
 
-> [!TASKBAR]
+> **[TASKBAR]**
 > 
 > TSUMIKI (FABRIC PROYECT)
 
-> [!APP LAUNCHER]
+> **[APP LAUNCHER]**
 > 
 > ROFI
 
->[!TASKBAR]
+>**[TASKBAR]**
 >
 > FABRIC (TSUMIKI PROJECT)
 
->[!EXTRA PACKAGES]
+>**[EXTRA PACKAGES]**
 >
 >NEOFETCH
 >PIPEWIRE
